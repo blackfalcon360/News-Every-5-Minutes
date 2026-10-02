@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">News Every 5 Minutes</string>
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="credit">By: Black Falcon</string>
+    <string name="loading_news">Loading the latest headlines...</string>
+    <string name="status_ready">Select a language and press Play</string>
+    <string name="status_connecting">Connecting...</string>
+    <string name="status_playing">Playing: %1$s</string>
+    <string name="status_stopped">Stopped</string>
+    <string name="status_error">Stream error. Check your internet connection and try again.</string>
+</resources>
